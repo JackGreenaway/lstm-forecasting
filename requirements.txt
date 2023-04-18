@@ -1,0 +1,8 @@
+tensorflow
+yfinance
+keras-tuner
+keras
+matplotlib
+pandas
+numpy
+sklearn
